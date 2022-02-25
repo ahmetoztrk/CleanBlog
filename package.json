@@ -1,0 +1,27 @@
+{
+  "name": "cleanblog",
+  "version": "1.0.0",
+  "description": "Clean Blog",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmetoztrk/CleanBlog.git"
+  },
+  "author": "Ahmet Öztürk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmetoztrk/CleanBlog/issues"
+  },
+  "homepage": "https://github.com/ahmetoztrk/CleanBlog#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "prettier": "^2.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
